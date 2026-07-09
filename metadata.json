@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: سامانه هوشمند مدیریت انبار ضایعات آهن",
+  "description": "سیستم اتوماسیون کامل خرید، باسکول، فرآوری، هزینه‌ها، حقوق و تسهیم سود شرکای انبار ضایعات آهن خاوران",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
